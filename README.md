@@ -41,7 +41,7 @@ This project presents an interactive analytics dashboard built to analyze user b
 ## Dashboard Preview
 
 ### Overview Dashboard
-![Dashboard Overview](dashboard.png)
+![Dashboard Overview](Dashboard.png)
 
 ## Project Structure
 
